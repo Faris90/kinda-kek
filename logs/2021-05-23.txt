@@ -1,0 +1,307 @@
+(13:06:57) Starting Server
+(13:06:57) CREATED NEW: ranks/30_rank.txt
+(13:06:57) CREATED NEW: ranks/50_rank.txt
+(13:06:57) CREATED NEW: ranks/80_rank.txt
+(13:06:57) CREATED NEW: ranks/100_rank.txt
+(13:06:57) CREATED NEW: ranks/-20_rank.txt
+(13:06:57) CREATED NEW: ranks/0_rank.txt
+(13:06:57) CREATED NEW: ranks/120_rank.txt
+(13:06:57) Economy properties don't exist, creating
+(13:06:57) text/badwords.txt does not exist, creating
+(13:06:57) text/custom$s.txt does not exist, creating
+(13:06:57) text/messages.txt does not exist, creating
+(13:06:57) CREATED NEW: text/discord/controllers.txt
+(13:06:57) text/discord/replacements.txt does not exist, creating
+(13:06:57) Attempted to load level main, but levels/main.lvl does not exist.
+(13:06:57) Level "main" does not exist
+(13:06:58) GC performed (tracking 1212.28 KB, freed 1980.16 KB)
+(13:06:58) main level not found, generating..
+(13:06:58) SAVED: Level "main". (0/0/12)
+(13:06:58) GC performed (tracking 2234.41 KB, freed 245.58 KB)
+(13:06:58) CREATED NEW: text/autoload.txt
+(13:06:58) CREATED NEW: ranks/agreed.txt
+(13:06:58) CREATED NEW: extra/invalidids.txt
+(13:06:58) SAVED: extra/invalidids.txt
+(13:06:58) CREATED NEW: ranks/banned-ip.txt
+(13:06:58) CREATED NEW: ranks/hidden.txt
+(13:06:58) CREATED NEW: text/vip.txt
+(13:06:58) CREATED NEW: text/emotelist.txt
+(13:06:58) CREATED NEW: text/lockdown.txt
+(13:06:58) CREATED NEW: extra/models.txt
+(13:06:58) CREATED NEW: extra/skins.txt
+(13:06:58) CREATED NEW: extra/reach.txt
+(13:06:58) CREATED NEW: extra/rotations.txt
+(13:06:58) CREATED NEW: extra/modelscales.txt
+(13:06:58) CREATED NEW: ranks/muted.txt
+(13:06:58) CREATED NEW: ranks/frozen.txt
+(13:06:58) CREATED NEW: text/tempranks.txt
+(13:06:58) CREATED NEW: text/tempbans.txt
+(13:06:58) CREATED NEW: ranks/whitelist.txt
+(13:06:58) !!!Error! See logs/errors/2021-05-23error.log for more information.
+(13:06:58) Failed to start listening on port 25565 (Only one usage of each socket address (protocol/network address/port) is normally permitted)
+(13:06:58) CREATED NEW: ranks/IRC_Controllers.txt
+(13:06:58) Finished setting up server, finding classicube.net url..
+(13:07:00) ClassiCube URL found: http://www.classicube.net/server/play/3c29c57fcca3e3fbfdee28f428a3582e
+(13:07:08) No update found!
+(13:08:16) Generating map "mainx"..
+(13:08:16) GC performed (tracking 3999.33 KB, freed 2198.79 KB)
+(13:08:16) SAVED: Level "mainx". (0/0/12)
+(13:08:16) GC performed (tracking 3646.70 KB, freed 472.72 KB)
+(13:08:16) GC performed (tracking 2542.01 KB, freed 1136.70 KB)
+(13:08:21) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(13:08:21) Plugin CorePlugin was unloaded.
+(13:08:21) Plugin Core_NotesPlugin was unloaded.
+(13:08:21) Plugin DiscordRelayPlugin was unloaded.
+(13:08:21) Skipping level save for main.
+(13:08:21) GC performed (tracking 2648.20 KB, freed 149.77 KB)
+(13:08:21) Server shutdown completed
+(13:09:08) Starting Server
+(13:09:09) Level "main" loaded.
+(13:09:09) GC performed (tracking 2373.86 KB, freed 1733.34 KB)
+(13:09:09) !!!Error! See logs/errors/2021-05-23error.log for more information.
+(13:09:09) Failed to start listening on port 25565 (Only one usage of each socket address (protocol/network address/port) is normally permitted)
+(13:09:09) Finished setting up server, finding classicube.net url..
+(13:09:11) ClassiCube URL found: http://www.classicube.net/server/play/3c29c57fcca3e3fbfdee28f428a3582e
+(13:09:19) No update found!
+(13:10:03) Physics are now Instant on main
+(13:10:12) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(13:10:12) Plugin CorePlugin was unloaded.
+(13:10:12) Plugin Core_NotesPlugin was unloaded.
+(13:10:12) Plugin DiscordRelayPlugin was unloaded.
+(13:10:12) Skipping level save for main.
+(13:10:12) GC performed (tracking 3974.08 KB, freed 3141.37 KB)
+(13:10:12) Server shutdown completed
+(13:10:20) Starting Server
+(13:10:21) Level "main" loaded.
+(13:10:21) GC performed (tracking 1850.76 KB, freed 1205.56 KB)
+(13:10:21) !!!Error! See logs/errors/2021-05-23error.log for more information.
+(13:10:21) Failed to start listening on port 25565 (Only one usage of each socket address (protocol/network address/port) is normally permitted)
+(13:10:21) Finished setting up server, finding classicube.net url..
+(13:10:23) ClassiCube URL found: http://www.classicube.net/server/play/3c29c57fcca3e3fbfdee28f428a3582e
+(13:11:35) Starting Server
+(13:11:35) Level "main" loaded.
+(13:11:35) GC performed (tracking 1850.81 KB, freed 1204.24 KB)
+(13:11:35) Started listening on port 25565... 
+(13:11:35) Finished setting up server, finding classicube.net url..
+(13:11:37) ClassiCube URL found: http://www.classicube.net/server/play/3c29c57fcca3e3fbfdee28f428a3582e
+(13:11:45) 127.0.0.1 connected to the server.
+(13:11:45) GC performed (tracking 1981.57 KB, freed 432.82 KB)
+(13:11:46) text/welcome.txt does not exist, creating
+(13:11:46) WelpIAmHere [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:12:35) Saved BlockDB changes for: main
+(13:13:12) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(13:13:12) WelpIAmHere disconnected (Server shutdown. Rejoin in 10 seconds.).
+(13:13:12) Plugin CorePlugin was unloaded.
+(13:13:12) Plugin Core_NotesPlugin was unloaded.
+(13:13:12) Plugin DiscordRelayPlugin was unloaded.
+(13:13:12) SAVED: Level "main". (0/0/12)
+(13:13:12) GC performed (tracking 2233.21 KB, freed 696.75 KB)
+(13:13:12) Saved BlockDB changes for: main
+(13:13:12) Server shutdown completed
+(13:13:17) Starting Server
+(13:13:17) Level "main" loaded.
+(13:13:17) GC performed (tracking 2392.61 KB, freed 1707.57 KB)
+(13:13:17) Started listening on port 25565... 
+(13:13:17) Finished setting up server, finding classicube.net url..
+(13:13:19) ClassiCube URL found: http://www.classicube.net/server/play/3c29c57fcca3e3fbfdee28f428a3582e
+(13:13:31) No update found!
+(13:13:48) Auto unload: OFF
+(13:14:02) 127.0.0.1 connected to the server.
+(13:14:02) GC performed (tracking 2717.70 KB, freed 841.45 KB)
+(13:14:02) WelpIAmHere [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:14:17) Saved BlockDB changes for: main
+(13:15:12) Edge water: ON
+(13:15:17) Saved BlockDB changes for: main
+(13:16:17) Saved BlockDB changes for: main
+(13:16:17) WelpIAmHere+ used /pony
+(13:18:17) SAVED: Level "main". (1/1/12)
+(13:18:17) GC performed (tracking 3017.43 KB, freed 2973.02 KB)
+(13:18:17) Backup 1 saved for main
+(13:18:17) !PLAYERS ONLINE: WelpIAmHere+
+(13:18:17) !LEVELS ONLINE: main
+(13:18:46) Plugin compiled successfully.
+(13:18:46) (console) used /Plugin compile PluginNoTP
+(13:19:11) Plugin NoTp loaded...build: 0
+(13:19:11) Plugin loaded successfully.
+(13:19:11) (console) used /Plugin load PluginNoTP
+(13:19:45) WelpIAmHere+ used /TP 0 0
+(13:19:51) WelpIAmHere+ used /TP 0 0 0
+(13:20:32) Server shutting down (Server restarted. Sign in again and rejoin.)
+(13:20:32) WelpIAmHere disconnected (Server restarted. Sign in again and rejoin.).
+(13:20:32) Plugin CorePlugin was unloaded.
+(13:20:32) Plugin Core_NotesPlugin was unloaded.
+(13:20:32) Plugin DiscordRelayPlugin was unloaded.
+(13:20:32) Plugin NoTp was unloaded.
+(13:20:32) Skipping level save for main.
+(13:20:32) GC performed (tracking 2952.81 KB, freed 1739.19 KB)
+(13:20:32) Server shutdown completed
+(13:20:33) Starting Server
+(13:20:33) Plugin NoTp loaded...build: 0
+(13:20:33) Level "main" loaded.
+(13:20:33) GC performed (tracking 2403.04 KB, freed 1726.95 KB)
+(13:20:34) Started listening on port 25565... 
+(13:20:34) Finished setting up server, finding classicube.net url..
+(13:20:35) ClassiCube URL found: http://www.classicube.net/server/play/3c29c57fcca3e3fbfdee28f428a3582e
+(13:20:40) 127.0.0.1 connected to the server.
+(13:20:40) GC performed (tracking 2406.09 KB, freed 649.95 KB)
+(13:20:40) WelpIAmHere [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:20:44) No update found!
+(13:20:50) WelpIAmHere+ used /TP 0 0 0
+(13:21:33) Saved BlockDB changes for: main
+(13:21:43) WelpIAmHere+ used /TP 0 0 0
+(13:21:48) WelpIAmHere+ used /TP 0 0 0
+(13:21:53) WelpIAmHere+ used /TP 0 0 0
+(13:21:56) WelpIAmHere+ used /TP 0 0 0
+(13:22:33) Saved BlockDB changes for: main
+(13:23:27) WelpIAmHere+ used /Spawn 
+(13:23:35) WelpIAmHere+ used /TP 0 0 0
+(13:24:07) WelpIAmHere+ tried to use unknown command: /respawn 
+(13:25:33) SAVED: Level "main". (1/1/12)
+(13:25:33) GC performed (tracking 3723.35 KB, freed 3279.66 KB)
+(13:25:33) Backup 2 saved for main
+(13:25:33) !PLAYERS ONLINE: WelpIAmHere+
+(13:25:33) !LEVELS ONLINE: main
+(13:30:33) !PLAYERS ONLINE: WelpIAmHere+
+(13:30:33) !LEVELS ONLINE: main
+(13:35:33) !PLAYERS ONLINE: WelpIAmHere+
+(13:35:33) !LEVELS ONLINE: main
+(13:40:33) !PLAYERS ONLINE: WelpIAmHere+
+(13:40:33) !LEVELS ONLINE: main
+(13:45:33) !PLAYERS ONLINE: WelpIAmHere+
+(13:45:33) !LEVELS ONLINE: main
+(13:47:57) 127.0.0.1 connected to the server.
+(13:47:57) GC performed (tracking 3578.77 KB, freed 1998.70 KB)
+(13:47:57) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:49:23) wig disconnected (disconnected).
+(13:49:24) 127.0.0.1 connected to the server.
+(13:49:25) GC performed (tracking 3528.89 KB, freed 500.52 KB)
+(13:49:25) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:49:29) wig disconnected (disconnected).
+(13:49:30) 127.0.0.1 connected to the server.
+(13:49:30) GC performed (tracking 3481.34 KB, freed 394.94 KB)
+(13:49:30) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:49:58) wig disconnected (disconnected).
+(13:49:59) 127.0.0.1 connected to the server.
+(13:49:59) GC performed (tracking 3472.66 KB, freed 416.14 KB)
+(13:49:59) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:50:14) wig disconnected (disconnected).
+(13:50:15) 127.0.0.1 connected to the server.
+(13:50:16) GC performed (tracking 3459.80 KB, freed 418.48 KB)
+(13:50:16) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:50:34) !PLAYERS ONLINE: WelpIAmHere+, wig+
+(13:50:34) !LEVELS ONLINE: main
+(13:51:15) wig disconnected (disconnected).
+(13:51:16) 127.0.0.1 connected to the server.
+(13:51:16) GC performed (tracking 3455.19 KB, freed 450.34 KB)
+(13:51:16) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:51:34) Saved BlockDB changes for: main
+(13:52:18) wig disconnected (disconnected).
+(13:52:19) 127.0.0.1 connected to the server.
+(13:52:19) GC performed (tracking 3450.44 KB, freed 1100.65 KB)
+(13:52:19) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:52:22) wig disconnected (disconnected).
+(13:52:23) 127.0.0.1 connected to the server.
+(13:52:23) GC performed (tracking 3462.98 KB, freed 358.44 KB)
+(13:52:23) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(13:52:34) Saved BlockDB changes for: main
+(13:53:34) Saved BlockDB changes for: main
+(13:53:49) wig disconnected (disconnected).
+(13:53:49) WelpIAmHere disconnected (disconnected).
+(19:38:29) SAVED: Level "main". (0/0/12)
+(19:38:29) GC performed (tracking 3671.15 KB, freed 3112.59 KB)
+(19:39:01) 127.0.0.1 connected to the server.
+(19:39:01) GC performed (tracking 3623.74 KB, freed 641.13 KB)
+(19:39:01) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:39:29) Saved BlockDB changes for: main
+(19:43:29) SAVED: Level "main". (1/1/12)
+(19:43:29) GC performed (tracking 3544.46 KB, freed 1893.88 KB)
+(19:43:29) !PLAYERS ONLINE: wig+
+(19:43:29) !LEVELS ONLINE: main
+(19:47:57) wig disconnected (disconnected).
+(19:47:59) 127.0.0.1 connected to the server.
+(19:47:59) GC performed (tracking 3545.35 KB, freed 625.63 KB)
+(19:47:59) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:48:29) !PLAYERS ONLINE: wig+
+(19:48:29) !LEVELS ONLINE: main
+(19:48:50) wig disconnected (disconnected).
+(19:48:51) 127.0.0.1 connected to the server.
+(19:48:51) GC performed (tracking 3542.81 KB, freed 426.66 KB)
+(19:48:51) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:48:58) wig disconnected (disconnected).
+(19:48:59) 127.0.0.1 connected to the server.
+(19:48:59) GC performed (tracking 3521.84 KB, freed 343.94 KB)
+(19:48:59) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:49:14) wig disconnected (disconnected).
+(19:53:05) 127.0.0.1 connected to the server.
+(19:53:05) GC performed (tracking 3508.13 KB, freed 466.18 KB)
+(19:53:05) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:53:29) !PLAYERS ONLINE: wig+
+(19:53:29) !LEVELS ONLINE: main
+(19:53:52) wig disconnected (disconnected).
+(19:53:53) 127.0.0.1 connected to the server.
+(19:53:53) GC performed (tracking 3471.85 KB, freed 430.41 KB)
+(19:53:53) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:53:55) wig disconnected (disconnected).
+(19:53:56) 127.0.0.1 connected to the server.
+(19:53:56) GC performed (tracking 3478.33 KB, freed 323.39 KB)
+(19:53:56) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:54:53) wig disconnected (disconnected).
+(19:54:54) 127.0.0.1 connected to the server.
+(19:54:54) GC performed (tracking 3468.48 KB, freed 438.12 KB)
+(19:54:54) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:55:02) wig disconnected (disconnected).
+(19:55:03) 127.0.0.1 connected to the server.
+(19:55:04) GC performed (tracking 3471.80 KB, freed 357.27 KB)
+(19:55:04) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(19:58:29) !PLAYERS ONLINE: wig+
+(19:58:29) !LEVELS ONLINE: main
+(19:59:10) wig disconnected (disconnected).
+(19:59:11) 127.0.0.1 connected to the server.
+(19:59:11) GC performed (tracking 3455.41 KB, freed 690.99 KB)
+(19:59:11) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:02:08) wig disconnected (disconnected).
+(20:02:10) 127.0.0.1 connected to the server.
+(20:02:10) GC performed (tracking 3567.13 KB, freed 610.88 KB)
+(20:02:10) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:02:58) wig disconnected (disconnected).
+(20:02:59) 127.0.0.1 connected to the server.
+(20:02:59) GC performed (tracking 3564.84 KB, freed 408.01 KB)
+(20:02:59) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:03:30) wig disconnected (disconnected).
+(20:03:31) 127.0.0.1 connected to the server.
+(20:03:31) GC performed (tracking 3572.24 KB, freed 376.63 KB)
+(20:03:31) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:04:09) wig disconnected (disconnected).
+(20:04:10) 127.0.0.1 connected to the server.
+(20:04:10) GC performed (tracking 3567.67 KB, freed 390.64 KB)
+(20:04:10) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:04:11) wig disconnected (disconnected).
+(20:04:12) 127.0.0.1 connected to the server.
+(20:04:13) GC performed (tracking 3560.31 KB, freed 323.21 KB)
+(20:04:13) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:04:19) wig disconnected (disconnected).
+(20:04:20) 127.0.0.1 connected to the server.
+(20:04:20) GC performed (tracking 3560.61 KB, freed 320.71 KB)
+(20:04:20) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:04:34) wig disconnected (disconnected).
+(20:04:35) 127.0.0.1 connected to the server.
+(20:04:35) GC performed (tracking 3554.10 KB, freed 356.05 KB)
+(20:04:35) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:05:27) wig disconnected (disconnected).
+(20:05:29) 127.0.0.1 connected to the server.
+(20:05:29) GC performed (tracking 3526.52 KB, freed 430.42 KB)
+(20:05:29) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:05:32) wig disconnected (disconnected).
+(20:05:33) 127.0.0.1 connected to the server.
+(20:05:33) GC performed (tracking 3527.08 KB, freed 325.23 KB)
+(20:05:33) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:07:55) wig disconnected (disconnected).
+(20:07:56) 127.0.0.1 connected to the server.
+(20:07:56) GC performed (tracking 3519.64 KB, freed 593.87 KB)
+(20:07:56) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:08:01) wig disconnected (disconnected).
+(20:08:02) 127.0.0.1 connected to the server.
+(20:08:02) GC performed (tracking 3489.59 KB, freed 346.61 KB)
+(20:08:02) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
+(20:08:30) !PLAYERS ONLINE: wig+
+(20:08:30) !LEVELS ONLINE: main

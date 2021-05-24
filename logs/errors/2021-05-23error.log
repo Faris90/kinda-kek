@@ -1,0 +1,30 @@
+----5/23/2021 1:06:58 PM ----
+Type: SocketException
+Source: System
+Message: Only one usage of each socket address (protocol/network address/port) is normally permitted
+Target: DoBind
+Trace:    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at MCGalaxy.Network.TcpListen.Listen(IPAddress ip, Int32 port)
+
+-------------------------
+----5/23/2021 1:09:09 PM ----
+Type: SocketException
+Source: System
+Message: Only one usage of each socket address (protocol/network address/port) is normally permitted
+Target: DoBind
+Trace:    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at MCGalaxy.Network.TcpListen.Listen(IPAddress ip, Int32 port)
+
+-------------------------
+----5/23/2021 1:10:21 PM ----
+Type: SocketException
+Source: System
+Message: Only one usage of each socket address (protocol/network address/port) is normally permitted
+Target: DoBind
+Trace:    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at MCGalaxy.Network.TcpListen.Listen(IPAddress ip, Int32 port)
+
+-------------------------
