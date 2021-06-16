@@ -305,3 +305,17 @@
 (20:08:02) wig [127.0.0.1] connected using ClassiCube 1.2.5 web.
 (20:08:30) !PLAYERS ONLINE: wig+
 (20:08:30) !LEVELS ONLINE: main
+(20:13:30) SAVED: Level "main". (1/1/12)
+(20:13:30) GC performed (tracking 4644.23 KB, freed 665.90 KB)
+(20:13:30) !PLAYERS ONLINE: wig+
+(20:13:30) !LEVELS ONLINE: main
+(20:13:45) Saved BlockDB changes for: main
+(20:14:59) wig disconnected (disconnected).
+(20:15:42) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(20:15:42) Plugin CorePlugin was unloaded.
+(20:15:42) Plugin Core_NotesPlugin was unloaded.
+(20:15:42) Plugin DiscordRelayPlugin was unloaded.
+(20:15:42) Plugin NoTp was unloaded.
+(20:15:42) Skipping level save for main.
+(20:15:42) GC performed (tracking 3443.49 KB, freed 1583.22 KB)
+(20:15:42) Server shutdown completed

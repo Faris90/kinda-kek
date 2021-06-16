@@ -1,0 +1,934 @@
+(14:48:37) Starting Server
+(14:48:38) Plugin NoTp loaded...build: 0
+(14:48:39) Level "main" loaded.
+(14:48:39) GC performed (tracking 2391.66 KB, freed 1859.20 KB)
+(14:48:39) Started listening on port 25565... 
+(14:48:39) Finished setting up server, finding classicube.net url..
+(14:48:40) ClassiCube URL found: http://www.classicube.net/server/play/3c29c57fcca3e3fbfdee28f428a3582e
+(14:49:19) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(14:49:19) Plugin CorePlugin was unloaded.
+(14:49:19) Plugin Core_NotesPlugin was unloaded.
+(14:49:19) Plugin DiscordRelayPlugin was unloaded.
+(14:49:19) Plugin NoTp was unloaded.
+(14:49:19) Skipping level save for main.
+(14:49:19) GC performed (tracking 2430.20 KB, freed 531.09 KB)
+(14:49:19) Server shutdown completed
+(14:49:26) Starting Server
+(14:49:26) Plugin NoTp loaded...build: 0
+(14:49:26) Level "main" loaded.
+(14:49:26) GC performed (tracking 2386.54 KB, freed 1871.24 KB)
+(14:49:26) Started listening on port 25565... 
+(14:49:26) Finished setting up server, finding classicube.net url..
+(14:49:28) ClassiCube URL found: http://www.classicube.net/server/play/3c29c57fcca3e3fbfdee28f428a3582e
+(14:49:33) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(14:49:33) Plugin CorePlugin was unloaded.
+(14:49:33) Plugin Core_NotesPlugin was unloaded.
+(14:49:33) Plugin DiscordRelayPlugin was unloaded.
+(14:49:33) Plugin NoTp was unloaded.
+(14:49:33) Skipping level save for main.
+(14:49:33) GC performed (tracking 2410.53 KB, freed 609.70 KB)
+(14:49:33) Server shutdown completed
+(14:50:47) Starting Server
+(14:50:48) Plugin NoTp loaded...build: 0
+(14:50:48) Level "main" loaded.
+(14:50:48) GC performed (tracking 2399.27 KB, freed 1837.10 KB)
+(14:50:48) Started listening on port 25555... 
+(14:50:48) Finished setting up server, finding classicube.net url..
+(14:50:50) ClassiCube URL found: http://www.classicube.net/server/play/1fdcb78c39602936282841c66826360f
+(14:53:17) Use /gb abort at anytime to abort the creation process.
+(14:53:17)   Use /gb revert to go back a step
+(14:53:17)   Use /gb [input] to provide input
+(14:53:17) ----------------------------------------------------------
+(14:53:17) Type the name for the block.
+(14:53:17) --------------------------
+(14:53:17) (console) used /GlobalBlock add 66
+(14:55:34) 127.0.0.1 connected to the server.
+(14:55:34) GC performed (tracking 5485.15 KB, freed 4446.47 KB)
+(14:55:34) KeengBob [127.0.0.1] connected using ClassiCube 1.2.5.
+(14:55:48) !PLAYERS ONLINE: KeengBob+
+(14:55:48) !LEVELS ONLINE: main
+(14:55:51) KeengBob+ was promoted to AdvBuilder by (console)
+(14:55:51) SAVED: ranks/0_rank.txt
+(14:55:51) SAVED: ranks/50_rank.txt
+(14:55:57) KeengBob+ was promoted to SuperOP by (console)
+(14:55:57) SAVED: ranks/50_rank.txt
+(14:55:57) SAVED: ranks/100_rank.txt
+(14:56:27) KeengBob+ used /Model creeper
+(14:56:27) SAVED: extra/models.txt
+(14:56:43) KeengBob+ used /Model cre
+(14:56:43) SAVED: extra/models.txt
+(14:56:48) Saved BlockDB changes for: main
+(14:59:38) KeengBob+ used /Model creeper
+(14:59:38) SAVED: extra/models.txt
+(14:59:41) KeengBob+ used /Model cow
+(14:59:41) SAVED: extra/models.txt
+(14:59:44) KeengBob+ used /Model chicken
+(14:59:44) SAVED: extra/models.txt
+(14:59:49) KeengBob+ used /Model 66
+(14:59:49) SAVED: extra/models.txt
+(15:00:39) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:00:39) --------------------------
+(15:00:39) (console) used /GlobalBlock faggot
+(15:00:48) SAVED: Level "main". (1/1/128)
+(15:00:48) GC performed (tracking 3656.77 KB, freed 4814.79 KB)
+(15:00:48) !PLAYERS ONLINE: KeengBob+
+(15:00:48) !LEVELS ONLINE: main
+(15:00:59) Aborted the custom block creation process.
+(15:00:59) (console) used /GlobalBlock abort
+(15:01:04) Use /gb abort at anytime to abort the creation process.
+(15:01:04)   Use /gb revert to go back a step
+(15:01:04)   Use /gb [input] to provide input
+(15:01:04) ----------------------------------------------------------
+(15:01:04) Type the name for the block.
+(15:01:04) --------------------------
+(15:01:04) (console) used /GlobalBlock add 66
+(15:01:27) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:01:27) --------------------------
+(15:01:27) (console) used /GlobalBlock scum
+(15:01:38) Type a number for the top texture.
+(15:01:38) Press F10 to see the numbers for each texture in terrain.png
+(15:01:38) --------------------------
+(15:01:38) (console) used /GlobalBlock 0
+(15:02:28) Type a number for sides texture.
+(15:02:28) Press F10 to see the numbers for each texture in terrain.png
+(15:02:28) --------------------------
+(15:02:28) (console) used /GlobalBlock 1
+(15:02:29) Type a number for the bottom texture.
+(15:02:29) Press F10 to see the numbers for each texture in terrain.png
+(15:02:29) --------------------------
+(15:02:29) (console) used /GlobalBlock 1
+(15:03:00) Enter the three minimum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:03:00) Minimum coordinates for a normal block are 0 0 0.
+(15:03:00) --------------------------
+(15:03:00) (console) used /GlobalBlock 9
+(15:03:06) Type a number for the bottom texture.
+(15:03:06) Press F10 to see the numbers for each texture in terrain.png
+(15:03:06) --------------------------
+(15:03:06) (console) used /GlobalBlock revert
+(15:03:13) Enter the three minimum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:03:13) Minimum coordinates for a normal block are 0 0 0.
+(15:03:13) --------------------------
+(15:03:13) (console) used /GlobalBlock 9
+(15:03:17) Enter the three maximum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:03:17) Maximum coordinates for a normal block are 16 16 16.
+(15:03:17) --------------------------
+(15:03:17) (console) used /GlobalBlock 0 0 0
+(15:03:33) Type a number between '0' and '7' for collision type.
+(15:03:33) 0 - block is walk-through (e.g. air).
+(15:03:33) 1 - block is swim-through/climbable (e.g. rope).
+(15:03:33) 2 - block is solid (e.g. dirt).
+(15:03:33) 3 - block is solid, but slippery like ice
+(15:03:33) 4 - block is solid, but even slipperier than ice
+(15:03:33) 5 - block is swim-through like water
+(15:03:33) 6 - block is swim-through like lava
+(15:03:33) 7 - block is climbable like rope
+(15:03:33) --------------------------
+(15:03:33) (console) used /GlobalBlock 16 8 16
+(15:03:38) Type a number between '0.25' (25speed) and '3.96' (396speed).
+(15:03:38) This speed is used when inside or walking on the block. Default speed is 1
+(15:03:38) --------------------------
+(15:03:38) (console) used /GlobalBlock 1
+(15:03:51) Type 'yes' if the block casts a shadow, 'no' if it doesn't.
+(15:03:51) --------------------------
+(15:03:51) (console) used /GlobalBlock 1
+(15:03:56) Type a number between '0' and '9' for the sound played when walking on it and breaking.
+(15:03:56) 0 = None, 1 = Wood, 2 = Gravel, 3 = Grass, 4 = Stone
+(15:03:56) 5 = Metal, 6 = Glass, 7 = Cloth, 8 = Sand, 9 = Snow
+(15:03:56) --------------------------
+(15:03:56) (console) used /GlobalBlock yes
+(15:04:12) "no" is not a valid integer.
+(15:04:12) Type a number between '0' and '9' for the sound played when walking on it and breaking.
+(15:04:12) 0 = None, 1 = Wood, 2 = Gravel, 3 = Grass, 4 = Stone
+(15:04:12) 5 = Metal, 6 = Glass, 7 = Cloth, 8 = Sand, 9 = Snow
+(15:04:12) --------------------------
+(15:04:12) (console) used /GlobalBlock no
+(15:04:24) Type 'yes' if the block is fully lit (e.g. lava), 'no' if not.
+(15:04:24) --------------------------
+(15:04:24) (console) used /GlobalBlock 6
+(15:04:30) Enter the block's draw method.
+(15:04:30) 0 = Opaque, 1 = Transparent (Like glass)
+(15:04:30) 2 = Transparent (Like leaves), 3 = Translucent (Like ice), 4 = Gas (Like air)
+(15:04:30) --------------------------
+(15:04:30) (console) used /GlobalBlock no
+(15:04:38) "n3" is not a valid integer.
+(15:04:38) Enter the block's draw method.
+(15:04:38) 0 = Opaque, 1 = Transparent (Like glass)
+(15:04:38) 2 = Transparent (Like leaves), 3 = Translucent (Like ice), 4 = Gas (Like air)
+(15:04:38) --------------------------
+(15:04:38) (console) used /GlobalBlock n3
+(15:04:41) Enter the fog density for the block. 0 = No fog at all
+(15:04:41) 1 - 255 = Increasing density (e.g. water has 12, lava 255)
+(15:04:41) --------------------------
+(15:04:41) (console) used /GlobalBlock 3
+(15:04:44) Enter the fog color (hex color)
+(15:04:44) --------------------------
+(15:04:44) (console) used /GlobalBlock 1
+(15:04:59) Enter the fallback block (Block shown to players who can't see custom blocks).
+(15:04:59) You can use any block name or block ID from the normal blocks.
+(15:04:59) --------------------------
+(15:04:59) (console) used /GlobalBlock fcba03
+(15:05:05) Created a new global custom block scum(66)
+(15:05:05) (console) used /GlobalBlock 0
+(15:05:29) KeengBob+ used /Model human
+(15:05:29) SAVED: extra/models.txt
+(15:05:48) SAVED: Level "main". (1/1/128)
+(15:05:48) GC performed (tracking 3773.52 KB, freed 1326.09 KB)
+(15:05:48) !PLAYERS ONLINE: KeengBob+
+(15:05:48) !LEVELS ONLINE: main
+(15:05:48) Saved BlockDB changes for: main
+(15:06:09) Block ID must be between 1 and 255
+(15:06:09) (console) used /GlobalBlock add 666
+(15:06:25) Use /gb abort at anytime to abort the creation process.
+(15:06:25)   Use /gb revert to go back a step
+(15:06:25)   Use /gb [input] to provide input
+(15:06:25) ----------------------------------------------------------
+(15:06:25) Type the name for the block.
+(15:06:25) --------------------------
+(15:06:25) (console) used /GlobalBlock add 85
+(15:06:43) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:06:43) --------------------------
+(15:06:43) (console) used /GlobalBlock test
+(15:06:48) Saved BlockDB changes for: main
+(15:06:51) Type a number for the top texture.
+(15:06:51) Press F10 to see the numbers for each texture in terrain.png
+(15:06:51) --------------------------
+(15:06:51) (console) used /GlobalBlock 0
+(15:07:06) Type a number for sides texture.
+(15:07:06) Press F10 to see the numbers for each texture in terrain.png
+(15:07:06) --------------------------
+(15:07:06) (console) used /GlobalBlock 64
+(15:07:18) Type a number for the bottom texture.
+(15:07:18) Press F10 to see the numbers for each texture in terrain.png
+(15:07:18) --------------------------
+(15:07:18) (console) used /GlobalBlock 70
+(15:07:37) Enter the three minimum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:07:37) Minimum coordinates for a normal block are 0 0 0.
+(15:07:37) --------------------------
+(15:07:37) (console) used /GlobalBlock 81
+(15:07:41) Enter the three maximum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:07:41) Maximum coordinates for a normal block are 16 16 16.
+(15:07:41) --------------------------
+(15:07:41) (console) used /GlobalBlock 0 0 0
+(15:07:49) Type a number between '0' and '7' for collision type.
+(15:07:49) 0 - block is walk-through (e.g. air).
+(15:07:49) 1 - block is swim-through/climbable (e.g. rope).
+(15:07:49) 2 - block is solid (e.g. dirt).
+(15:07:49) 3 - block is solid, but slippery like ice
+(15:07:49) 4 - block is solid, but even slipperier than ice
+(15:07:49) 5 - block is swim-through like water
+(15:07:49) 6 - block is swim-through like lava
+(15:07:49) 7 - block is climbable like rope
+(15:07:49) --------------------------
+(15:07:49) (console) used /GlobalBlock 16 16 16
+(15:07:58) Type a number between '0.25' (25speed) and '3.96' (396speed).
+(15:07:58) This speed is used when inside or walking on the block. Default speed is 1
+(15:07:58) --------------------------
+(15:07:58) (console) used /GlobalBlock 2
+(15:08:11) Type 'yes' if the block casts a shadow, 'no' if it doesn't.
+(15:08:11) --------------------------
+(15:08:11) (console) used /GlobalBlock 2
+(15:08:18) Type a number between '0' and '9' for the sound played when walking on it and breaking.
+(15:08:18) 0 = None, 1 = Wood, 2 = Gravel, 3 = Grass, 4 = Stone
+(15:08:18) 5 = Metal, 6 = Glass, 7 = Cloth, 8 = Sand, 9 = Snow
+(15:08:18) --------------------------
+(15:08:18) (console) used /GlobalBlock yes
+(15:08:23) Type 'yes' if the block is fully lit (e.g. lava), 'no' if not.
+(15:08:23) --------------------------
+(15:08:23) (console) used /GlobalBlock 1
+(15:08:28) Enter the block's draw method.
+(15:08:28) 0 = Opaque, 1 = Transparent (Like glass)
+(15:08:28) 2 = Transparent (Like leaves), 3 = Translucent (Like ice), 4 = Gas (Like air)
+(15:08:28) --------------------------
+(15:08:28) (console) used /GlobalBlock no
+(15:08:34) Enter the fog density for the block. 0 = No fog at all
+(15:08:34) 1 - 255 = Increasing density (e.g. water has 12, lava 255)
+(15:08:34) --------------------------
+(15:08:34) (console) used /GlobalBlock 0
+(15:08:41) Enter the fallback block (Block shown to players who can't see custom blocks).
+(15:08:41) You can use any block name or block ID from the normal blocks.
+(15:08:41) --------------------------
+(15:08:41) (console) used /GlobalBlock 0
+(15:08:53) Created a new global custom block test(85)
+(15:08:53) (console) used /GlobalBlock 35
+(15:08:59) gb help page 1:
+(15:08:59) /gb add [id] - begins creating a new custom block
+(15:08:59) /gb copy [id] <new id> - clones an existing custom block
+(15:08:59) /gb edit [id] [property] [value] - edits that custom block
+(15:08:59) /gb remove [id] - removes that custom block
+(15:08:59) To see the list of editable properties, type /gb edit
+(15:08:59) To read help page 2, type /help gb 2
+(15:08:59) (console) used /GlobalBlock
+(15:09:03) Removed global custom block scum(66)
+(15:09:03) (console) used /GlobalBlock remove 66
+(15:09:50) Saved BlockDB changes for: main
+(15:10:19) KeengBob disconnected (disconnected).
+(15:10:48) SAVED: Level "main". (0/0/128)
+(15:10:48) GC performed (tracking 5269.95 KB, freed 5670.14 KB)
+(15:10:50) Saved BlockDB changes for: main
+(15:11:00) Edge water: OFF
+(15:11:03) 127.0.0.1 connected to the server.
+(15:11:04) GC performed (tracking 3957.26 KB, freed 2120.26 KB)
+(15:11:04) KeengBob [127.0.0.1] connected using ClassiCube 1.2.5.
+(15:11:14) KeengBob disconnected (disconnected).
+(15:11:37) Generating map "main2"..
+(15:11:37) GC performed (tracking 8265.45 KB, freed 1298.34 KB)
+(15:11:38) SAVED: Level "main2". (0/0/128)
+(15:11:38) GC performed (tracking 8014.41 KB, freed 395.13 KB)
+(15:11:38) GC performed (tracking 3804.28 KB, freed 4225.85 KB)
+(15:11:42) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(15:11:42) Plugin CorePlugin was unloaded.
+(15:11:42) Plugin Core_NotesPlugin was unloaded.
+(15:11:42) Plugin DiscordRelayPlugin was unloaded.
+(15:11:42) Plugin NoTp was unloaded.
+(15:11:42) Skipping level save for main.
+(15:11:42) Server shutdown completed
+(15:12:20) Starting Server
+(15:12:20) Plugin NoTp loaded...build: 0
+(15:12:20) Attempted to load level main, but levels/main.lvl does not exist.
+(15:12:20) Level "main" does not exist
+(15:12:20) GC performed (tracking 1228.56 KB, freed 1775.24 KB)
+(15:12:20) main level not found, generating..
+(15:12:20) SAVED: Level "main". (0/0/128)
+(15:12:20) GC performed (tracking 2254.46 KB, freed 250.27 KB)
+(15:12:20) Started listening on port 25555... 
+(15:12:20) Finished setting up server, finding classicube.net url..
+(15:12:22) ClassiCube URL found: http://www.classicube.net/server/play/1fdcb78c39602936282841c66826360f
+(15:12:28) Level "main2" loaded.
+(15:12:28) GC performed (tracking 6698.52 KB, freed 1010.53 KB)
+(15:12:28) (console) used /Load main2
+(15:12:35) GC performed (tracking 6699.93 KB, freed 1305.90 KB)
+(15:12:35) main was unloaded.
+(15:12:39) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(15:12:39) Plugin CorePlugin was unloaded.
+(15:12:39) Plugin Core_NotesPlugin was unloaded.
+(15:12:39) Plugin DiscordRelayPlugin was unloaded.
+(15:12:39) Plugin NoTp was unloaded.
+(15:12:39) Skipping level save for main2.
+(15:12:39) GC performed (tracking 6308.82 KB, freed 1351.05 KB)
+(15:12:39) Server shutdown completed
+(15:13:12) Starting Server
+(15:13:12) Plugin NoTp loaded...build: 0
+(15:13:12) Level "main2" loaded.
+(15:13:12) GC performed (tracking 5484.40 KB, freed 1861.27 KB)
+(15:13:12) Started listening on port 25555... 
+(15:13:12) Finished setting up server, finding classicube.net url..
+(15:13:14) ClassiCube URL found: http://www.classicube.net/server/play/1fdcb78c39602936282841c66826360f
+(15:13:18) 127.0.0.1 connected to the server.
+(15:13:18) GC performed (tracking 5540.78 KB, freed 767.16 KB)
+(15:13:18) KeengBob [127.0.0.1] connected using ClassiCube 1.2.5.
+(15:13:38) Auto unload: OFF
+(15:13:38) Auto unload: ON
+(15:13:38) Auto unload: OFF
+(15:13:38) Auto unload: ON
+(15:13:45) Physics are now Instant on main2
+(15:14:12) Saved BlockDB changes for: main2
+(15:14:25) KeengBob disconnected (disconnected).
+(15:15:01) Generating map "main"..
+(15:15:01) Heightmap: Priming
+(15:15:02) Heightmap: Marbling
+(15:15:02) Heightmap: Biasing
+(15:15:02) Heightmap Processing: Smoothing
+(15:15:02) Heightmap Processing: Randomizing
+(15:15:03) Filling
+(15:15:10) Processing: Adding beaches
+(15:15:10) Processing: Planting trees
+(15:15:17) Generation complete
+(15:15:17) GC performed (tracking 1061723.62 KB, freed 19283.89 KB)
+(15:15:28) SAVED: Level "main". (0/0/128)
+(15:15:28) GC performed (tracking 1061622.28 KB, freed 4808.93 KB)
+(15:15:28) GC performed (tracking 6812.09 KB, freed 1054825.91 KB)
+(15:15:40) Level "main" loaded.
+(15:15:40) GC performed (tracking 1061690.95 KB, freed 3491.94 KB)
+(15:15:40) (console) used /Load main
+(15:15:48) 127.0.0.1 connected to the server.
+(15:15:48) GC performed (tracking 1061770.84 KB, freed 438.39 KB)
+(15:15:48) KeengBob [127.0.0.1] connected using ClassiCube 1.2.5.
+(15:16:02) KeengBob+ used /Goto main
+(15:16:11) GC performed (tracking 1061643.52 KB, freed 4819.14 KB)
+(15:16:37) Finite mode: ON
+(15:16:42) KeengBob+ used /Goto main2
+(15:16:43) GC performed (tracking 1061908.78 KB, freed 1252.08 KB)
+(15:16:43) GC performed (tracking 1061676.59 KB, freed 240.20 KB)
+(15:16:43) GC performed (tracking 11036.15 KB, freed 1050656.40 KB)
+(15:16:43) main was unloaded.
+(15:17:01) KeengBob disconnected (disconnected).
+(15:17:12) Saved BlockDB changes for: main2
+(15:17:21) Generating map "flat"..
+(15:17:21) GC performed (tracking 72818.27 KB, freed 235.45 KB)
+(15:17:22) SAVED: Level "flat". (0/0/128)
+(15:17:22) GC performed (tracking 72811.86 KB, freed 657.75 KB)
+(15:17:22) GC performed (tracking 6832.31 KB, freed 65995.55 KB)
+(15:17:36) Level "flat" loaded.
+(15:17:36) GC performed (tracking 72828.98 KB, freed 328.11 KB)
+(15:17:36) (console) used /Load flat
+(15:17:52) Server shutting down (Server restarted. Sign in again and rejoin.)
+(15:17:52) Plugin CorePlugin was unloaded.
+(15:17:52) Plugin Core_NotesPlugin was unloaded.
+(15:17:52) Plugin DiscordRelayPlugin was unloaded.
+(15:17:52) Plugin NoTp was unloaded.
+(15:17:52) SAVED: Level "main2". (0/0/128)
+(15:17:52) GC performed (tracking 72957.52 KB, freed 1115.63 KB)
+(15:17:52) Skipping level save for flat.
+(15:17:52) GC performed (tracking 72721.12 KB, freed 244.40 KB)
+(15:17:52) Server shutdown completed
+(15:17:52) Starting Server
+(15:17:52) Plugin NoTp loaded...build: 0
+(15:17:52) Level "main2" loaded.
+(15:17:53) GC performed (tracking 5509.69 KB, freed 1860.85 KB)
+(15:17:53) Started listening on port 25555... 
+(15:17:53) Finished setting up server, finding classicube.net url..
+(15:17:54) ClassiCube URL found: http://www.classicube.net/server/play/1fdcb78c39602936282841c66826360f
+(15:17:55) 127.0.0.1 connected to the server.
+(15:17:55) GC performed (tracking 5515.95 KB, freed 655.82 KB)
+(15:17:55) KeengBob [127.0.0.1] connected using ClassiCube 1.2.5.
+(15:18:03) KeengBob disconnected (disconnected).
+(15:18:21) Server shutting down (Server restarted. Sign in again and rejoin.)
+(15:18:21) Plugin CorePlugin was unloaded.
+(15:18:21) Plugin Core_NotesPlugin was unloaded.
+(15:18:21) Plugin DiscordRelayPlugin was unloaded.
+(15:18:21) Plugin NoTp was unloaded.
+(15:18:22) SAVED: Level "main2". (0/0/128)
+(15:18:22) GC performed (tracking 5563.88 KB, freed 578.71 KB)
+(15:18:22) Server shutdown completed
+(15:18:22) Starting Server
+(15:18:22) Plugin NoTp loaded...build: 0
+(15:18:22) Level "main2" loaded.
+(15:18:22) GC performed (tracking 5502.82 KB, freed 1848.81 KB)
+(15:18:22) Started listening on port 25555... 
+(15:18:22) Finished setting up server, finding classicube.net url..
+(15:18:24) ClassiCube URL found: http://www.classicube.net/server/play/1fdcb78c39602936282841c66826360f
+(15:18:39) .properties file for level flat was not found.
+(15:18:39) Level "flat" loaded.
+(15:18:39) GC performed (tracking 72557.80 KB, freed 262.11 KB)
+(15:18:39) GC performed (tracking 68155.38 KB, freed 4418.41 KB)
+(15:18:39) main2 was unloaded.
+(15:18:42) Server shutting down (Server restarted. Sign in again and rejoin.)
+(15:18:42) Plugin CorePlugin was unloaded.
+(15:18:42) Plugin Core_NotesPlugin was unloaded.
+(15:18:42) Plugin DiscordRelayPlugin was unloaded.
+(15:18:42) Plugin NoTp was unloaded.
+(15:18:42) Skipping level save for flat.
+(15:18:42) GC performed (tracking 68029.03 KB, freed 526.23 KB)
+(15:18:42) Server shutdown completed
+(15:18:42) Starting Server
+(15:18:42) Plugin NoTp loaded...build: 0
+(15:18:42) .properties file for level flat was not found.
+(15:18:42) Level "flat" loaded.
+(15:18:42) GC performed (tracking 67155.27 KB, freed 312.82 KB)
+(15:18:42) Started listening on port 25555... 
+(15:18:43) Finished setting up server, finding classicube.net url..
+(15:18:44) ClassiCube URL found: http://www.classicube.net/server/play/1fdcb78c39602936282841c66826360f
+(15:18:49) 127.0.0.1 connected to the server.
+(15:18:49) GC performed (tracking 67364.57 KB, freed 638.52 KB)
+(15:18:49) KeengBob [127.0.0.1] connected using ClassiCube 1.2.5.
+(15:19:23) Finite mode: ON
+(15:19:42) Saved BlockDB changes for: flat
+(15:20:39) Physics are now Instant on flat
+(15:20:42) Saved BlockDB changes for: flat
+(15:21:42) Saved BlockDB changes for: flat
+(15:21:46) Finite mode: OFF
+(15:22:24) Finite mode: ON
+(15:22:42) Saved BlockDB changes for: flat
+(15:23:26) Edge water: ON
+(15:23:26) Edge water: OFF
+(15:23:26) Edge water: ON
+(15:23:26) Edge water: OFF
+(15:23:43) SAVED: Level "flat". (1/1/128)
+(15:23:43) GC performed (tracking 68743.37 KB, freed 3084.13 KB)
+(15:23:43) Backup 1 saved for flat
+(15:23:43) !PLAYERS ONLINE: KeengBob+
+(15:23:43) !LEVELS ONLINE: flat
+(15:23:43) Saved BlockDB changes for: flat
+(15:23:43) Finite mode: OFF
+(15:24:43) Saved BlockDB changes for: flat
+(15:25:03) Finite mode: ON
+(15:25:20) KeengBob disconnected (disconnected).
+(15:25:43) Saved BlockDB changes for: flat
+(15:25:52) Generating map "island"..
+(15:25:52) Heightmap: Priming
+(15:25:52) Heightmap: Marbling
+(15:25:52) Heightmap: Biasing
+(15:25:52) Heightmap Processing: Smoothing
+(15:25:52) Heightmap Processing: Randomizing
+(15:25:52) Filling
+(15:25:52) Processing: Adding beaches
+(15:25:52) Processing: Planting trees
+(15:25:52) Generation complete
+(15:25:52) GC performed (tracking 68207.63 KB, freed 5060.52 KB)
+(15:25:52) SAVED: Level "island". (0/0/128)
+(15:25:52) GC performed (tracking 67977.51 KB, freed 342.21 KB)
+(15:25:52) GC performed (tracking 67645.55 KB, freed 354.04 KB)
+(15:26:00) 127.0.0.1 connected to the server.
+(15:26:00) GC performed (tracking 67727.47 KB, freed 366.76 KB)
+(15:26:00) KeengBob [127.0.0.1] connected using ClassiCube 1.2.5.
+(15:26:09) KeengBob+ used /Goto island
+(15:26:10) Level "island" loaded.
+(15:26:10) GC performed (tracking 68006.60 KB, freed 360.89 KB)
+(15:26:10) GC performed (tracking 68034.87 KB, freed 111.66 KB)
+(15:26:25) Physics are now Instant on island
+(15:27:23) Generating map "space"..
+(15:27:24) GC performed (tracking 134435.02 KB, freed 1721.95 KB)
+(15:27:24) SAVED: Level "space". (0/1/128)
+(15:27:24) GC performed (tracking 134107.65 KB, freed 983.36 KB)
+(15:27:24) GC performed (tracking 68105.75 KB, freed 66009.90 KB)
+(15:27:32) Level "space" loaded.
+(15:27:32) GC performed (tracking 134102.62 KB, freed 302.96 KB)
+(15:27:32) (console) used /Load space
+(15:27:37) KeengBob+ used /Goto space
+(15:27:37) GC performed (tracking 134149.66 KB, freed 245.18 KB)
+(15:27:38) SAVED: Level "island". (0/1/128)
+(15:27:38) GC performed (tracking 134088.32 KB, freed 145.80 KB)
+(15:27:38) Saved BlockDB changes for: island
+(15:27:38) GC performed (tracking 133710.37 KB, freed 535.50 KB)
+(15:27:38) island was unloaded.
+(15:27:51) Generating map "superflat"..
+(15:27:51) GC performed (tracking 199728.98 KB, freed 614.16 KB)
+(15:27:52) SAVED: Level "superflat". (0/1/128)
+(15:27:52) GC performed (tracking 199656.46 KB, freed 789.60 KB)
+(15:27:52) GC performed (tracking 133639.02 KB, freed 66025.44 KB)
+(15:27:57) KeengBob+ used /Goto superflat
+(15:27:57) Level "superflat" loaded.
+(15:27:57) GC performed (tracking 199618.13 KB, freed 398.29 KB)
+(15:27:57) GC performed (tracking 199628.04 KB, freed 209.27 KB)
+(15:27:57) GC performed (tracking 133954.68 KB, freed 65695.70 KB)
+(15:27:57) space was unloaded.
+(15:28:22) Physics are now Instant on superflat
+(15:28:25) Finite mode: ON
+(15:28:43) SAVED: Level "flat". (0/1/128)
+(15:28:43) GC performed (tracking 134731.31 KB, freed 2815.20 KB)
+(15:28:44) SAVED: Level "superflat". (1/1/128)
+(15:28:44) GC performed (tracking 134552.80 KB, freed 882.25 KB)
+(15:28:44) !PLAYERS ONLINE: KeengBob+
+(15:28:44) !LEVELS ONLINE: flat, superflat
+(15:28:44) Saved BlockDB changes for: superflat
+(15:28:45) GC performed (tracking 68744.45 KB, freed 66556.85 KB)
+(15:28:45) flat was unloaded.
+(15:28:47) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(15:28:47) KeengBob disconnected (Server shutdown. Rejoin in 10 seconds.).
+(15:28:47) Plugin CorePlugin was unloaded.
+(15:28:47) Plugin Core_NotesPlugin was unloaded.
+(15:28:47) Plugin DiscordRelayPlugin was unloaded.
+(15:28:47) Plugin NoTp was unloaded.
+(15:28:47) Skipping level save for superflat.
+(15:28:47) GC performed (tracking 68270.23 KB, freed 921.41 KB)
+(15:28:47) Server shutdown completed
+(15:29:04) Starting Server
+(15:29:04) Plugin NoTp loaded...build: 0
+(15:29:05) .properties file for level superflat was not found.
+(15:29:05) Level "superflat" loaded.
+(15:29:05) GC performed (tracking 67155.23 KB, freed 309.24 KB)
+(15:29:05) Started listening on port 25555... 
+(15:29:05) Finished setting up server, finding classicube.net url..
+(15:29:07) ClassiCube URL found: http://www.classicube.net/server/play/1fdcb78c39602936282841c66826360f
+(15:29:10) 127.0.0.1 connected to the server.
+(15:29:10) GC performed (tracking 67321.94 KB, freed 746.23 KB)
+(15:29:10) KeengBob [127.0.0.1] connected using ClassiCube 1.2.5.
+(15:29:41) Use /gb abort at anytime to abort the creation process.
+(15:29:41)   Use /gb revert to go back a step
+(15:29:41)   Use /gb [input] to provide input
+(15:29:41) ----------------------------------------------------------
+(15:29:41) Type the name for the block.
+(15:29:41) --------------------------
+(15:29:41) (console) used /GlobalBlock add 97
+(15:30:04) Saved BlockDB changes for: superflat
+(15:30:17) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:30:17) --------------------------
+(15:30:17) (console) used /GlobalBlock Test2
+(15:30:22) Type a number for the top texture.
+(15:30:22) Press F10 to see the numbers for each texture in terrain.png
+(15:30:22) --------------------------
+(15:30:22) (console) used /GlobalBlock 0
+(15:30:36) Type a number for sides texture.
+(15:30:36) Press F10 to see the numbers for each texture in terrain.png
+(15:30:36) --------------------------
+(15:30:36) (console) used /GlobalBlock 0
+(15:30:45) Type a number for the bottom texture.
+(15:30:45) Press F10 to see the numbers for each texture in terrain.png
+(15:30:45) --------------------------
+(15:30:45) (console) used /GlobalBlock 1
+(15:31:06) Enter the three minimum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:31:06) Minimum coordinates for a normal block are 0 0 0.
+(15:31:06) --------------------------
+(15:31:06) (console) used /GlobalBlock 1
+(15:31:09) Enter the three maximum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:31:09) Maximum coordinates for a normal block are 16 16 16.
+(15:31:09) --------------------------
+(15:31:09) (console) used /GlobalBlock 0 0 0
+(15:31:14) Type a number between '0' and '7' for collision type.
+(15:31:14) 0 - block is walk-through (e.g. air).
+(15:31:14) 1 - block is swim-through/climbable (e.g. rope).
+(15:31:14) 2 - block is solid (e.g. dirt).
+(15:31:14) 3 - block is solid, but slippery like ice
+(15:31:14) 4 - block is solid, but even slipperier than ice
+(15:31:14) 5 - block is swim-through like water
+(15:31:14) 6 - block is swim-through like lava
+(15:31:14) 7 - block is climbable like rope
+(15:31:14) --------------------------
+(15:31:14) (console) used /GlobalBlock 16 16 16
+(15:31:25) Type a number between '0.25' (25speed) and '3.96' (396speed).
+(15:31:25) This speed is used when inside or walking on the block. Default speed is 1
+(15:31:25) --------------------------
+(15:31:25) (console) used /GlobalBlock 7
+(15:31:34) Type 'yes' if the block casts a shadow, 'no' if it doesn't.
+(15:31:34) --------------------------
+(15:31:34) (console) used /GlobalBlock 1
+(15:31:40) Type a number between '0' and '9' for the sound played when walking on it and breaking.
+(15:31:40) 0 = None, 1 = Wood, 2 = Gravel, 3 = Grass, 4 = Stone
+(15:31:40) 5 = Metal, 6 = Glass, 7 = Cloth, 8 = Sand, 9 = Snow
+(15:31:40) --------------------------
+(15:31:40) (console) used /GlobalBlock yes
+(15:31:44) Type 'yes' if the block is fully lit (e.g. lava), 'no' if not.
+(15:31:44) --------------------------
+(15:31:44) (console) used /GlobalBlock 5
+(15:31:50) Enter the block's draw method.
+(15:31:50) 0 = Opaque, 1 = Transparent (Like glass)
+(15:31:50) 2 = Transparent (Like leaves), 3 = Translucent (Like ice), 4 = Gas (Like air)
+(15:31:50) --------------------------
+(15:31:50) (console) used /GlobalBlock yes
+(15:31:54) Enter the fog density for the block. 0 = No fog at all
+(15:31:54) 1 - 255 = Increasing density (e.g. water has 12, lava 255)
+(15:31:54) --------------------------
+(15:31:54) (console) used /GlobalBlock 0
+(15:32:08) Enter the fallback block (Block shown to players who can't see custom blocks).
+(15:32:08) You can use any block name or block ID from the normal blocks.
+(15:32:08) --------------------------
+(15:32:08) (console) used /GlobalBlock 0
+(15:32:28) Created a new global custom block Test2(97)
+(15:32:28) (console) used /GlobalBlock 4
+(15:33:04) Saved BlockDB changes for: superflat
+(15:33:33) Use /gb abort at anytime to abort the creation process.
+(15:33:33)   Use /gb revert to go back a step
+(15:33:33)   Use /gb [input] to provide input
+(15:33:33) ----------------------------------------------------------
+(15:33:33) Type the name for the block.
+(15:33:33) --------------------------
+(15:33:33) (console) used /GlobalBlock add 66
+(15:34:05) SAVED: Level "superflat". (1/1/128)
+(15:34:05) GC performed (tracking 68036.70 KB, freed 2085.60 KB)
+(15:34:05) Backup 1 saved for superflat
+(15:34:05) !PLAYERS ONLINE: KeengBob+
+(15:34:05) !LEVELS ONLINE: superflat
+(15:34:05) Saved BlockDB changes for: superflat
+(15:34:26) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:34:26) --------------------------
+(15:34:26) (console) used /GlobalBlock Test3
+(15:34:32) Type a number for the top texture.
+(15:34:32) Press F10 to see the numbers for each texture in terrain.png
+(15:34:32) --------------------------
+(15:34:32) (console) used /GlobalBlock 0
+(15:34:52) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:34:52) --------------------------
+(15:34:52) (console) used /GlobalBlock revert
+(15:34:56) Type the name for the block.
+(15:34:56) --------------------------
+(15:34:56) (console) used /GlobalBlock revert
+(15:35:00) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:35:00) --------------------------
+(15:35:00) (console) used /GlobalBlock moss
+(15:35:04) Type a number for the top texture.
+(15:35:04) Press F10 to see the numbers for each texture in terrain.png
+(15:35:04) --------------------------
+(15:35:04) (console) used /GlobalBlock 0
+(15:35:08) Type a number for sides texture.
+(15:35:08) Press F10 to see the numbers for each texture in terrain.png
+(15:35:08) --------------------------
+(15:35:08) (console) used /GlobalBlock 0
+(15:35:12) Type a number for the bottom texture.
+(15:35:12) Press F10 to see the numbers for each texture in terrain.png
+(15:35:12) --------------------------
+(15:35:12) (console) used /GlobalBlock 0
+(15:35:14) Enter the three minimum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:35:14) Minimum coordinates for a normal block are 0 0 0.
+(15:35:14) --------------------------
+(15:35:14) (console) used /GlobalBlock 0
+(15:35:18) Enter the three maximum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:35:18) Maximum coordinates for a normal block are 16 16 16.
+(15:35:18) --------------------------
+(15:35:18) (console) used /GlobalBlock 0 0 0
+(15:35:21) Type a number between '0' and '7' for collision type.
+(15:35:21) 0 - block is walk-through (e.g. air).
+(15:35:21) 1 - block is swim-through/climbable (e.g. rope).
+(15:35:21) 2 - block is solid (e.g. dirt).
+(15:35:21) 3 - block is solid, but slippery like ice
+(15:35:21) 4 - block is solid, but even slipperier than ice
+(15:35:21) 5 - block is swim-through like water
+(15:35:21) 6 - block is swim-through like lava
+(15:35:21) 7 - block is climbable like rope
+(15:35:21) --------------------------
+(15:35:21) (console) used /GlobalBlock 16 16 16
+(15:35:31) Type a number between '0.25' (25speed) and '3.96' (396speed).
+(15:35:31) This speed is used when inside or walking on the block. Default speed is 1
+(15:35:31) --------------------------
+(15:35:31) (console) used /GlobalBlock 2
+(15:35:34) Type 'yes' if the block casts a shadow, 'no' if it doesn't.
+(15:35:34) --------------------------
+(15:35:34) (console) used /GlobalBlock 1
+(15:35:48) Type a number between '0' and '9' for the sound played when walking on it and breaking.
+(15:35:48) 0 = None, 1 = Wood, 2 = Gravel, 3 = Grass, 4 = Stone
+(15:35:48) 5 = Metal, 6 = Glass, 7 = Cloth, 8 = Sand, 9 = Snow
+(15:35:48) --------------------------
+(15:35:48) (console) used /GlobalBlock yes
+(15:35:56) Type 'yes' if the block is fully lit (e.g. lava), 'no' if not.
+(15:35:56) --------------------------
+(15:35:56) (console) used /GlobalBlock 3
+(15:36:02) Enter the block's draw method.
+(15:36:02) 0 = Opaque, 1 = Transparent (Like glass)
+(15:36:02) 2 = Transparent (Like leaves), 3 = Translucent (Like ice), 4 = Gas (Like air)
+(15:36:02) --------------------------
+(15:36:02) (console) used /GlobalBlock no
+(15:36:09) Enter the fog density for the block. 0 = No fog at all
+(15:36:09) 1 - 255 = Increasing density (e.g. water has 12, lava 255)
+(15:36:09) --------------------------
+(15:36:09) (console) used /GlobalBlock 0
+(15:36:13) Enter the fallback block (Block shown to players who can't see custom blocks).
+(15:36:13) You can use any block name or block ID from the normal blocks.
+(15:36:13) --------------------------
+(15:36:13) (console) used /GlobalBlock 0
+(15:36:27) Created a new global custom block moss(66)
+(15:36:27) (console) used /GlobalBlock 2
+(15:37:05) Saved BlockDB changes for: superflat
+(15:37:25) Use /gb abort at anytime to abort the creation process.
+(15:37:25)   Use /gb revert to go back a step
+(15:37:25)   Use /gb [input] to provide input
+(15:37:25) ----------------------------------------------------------
+(15:37:25) Type the name for the block.
+(15:37:25) --------------------------
+(15:37:25) (console) used /GlobalBlock add 67
+(15:37:38) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:37:38) --------------------------
+(15:37:38) (console) used /GlobalBlock speedboost
+(15:37:59) Type a number for the top texture.
+(15:37:59) Press F10 to see the numbers for each texture in terrain.png
+(15:37:59) --------------------------
+(15:37:59) (console) used /GlobalBlock 0
+(15:38:23) Type a number for sides texture.
+(15:38:23) Press F10 to see the numbers for each texture in terrain.png
+(15:38:23) --------------------------
+(15:38:23) (console) used /GlobalBlock 56
+(15:38:56) Type a number for the bottom texture.
+(15:38:56) Press F10 to see the numbers for each texture in terrain.png
+(15:38:56) --------------------------
+(15:38:56) (console) used /GlobalBlock 56
+(15:38:59) Enter the three minimum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:38:59) Minimum coordinates for a normal block are 0 0 0.
+(15:38:59) --------------------------
+(15:38:59) (console) used /GlobalBlock 56
+(15:39:03) Enter the three maximum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:39:03) Maximum coordinates for a normal block are 16 16 16.
+(15:39:03) --------------------------
+(15:39:03) (console) used /GlobalBlock 0 0 0
+(15:39:05) SAVED: Level "superflat". (1/1/128)
+(15:39:05) GC performed (tracking 67810.18 KB, freed 5395.42 KB)
+(15:39:05) !PLAYERS ONLINE: KeengBob+
+(15:39:05) !LEVELS ONLINE: superflat
+(15:39:08) Type a number between '0' and '7' for collision type.
+(15:39:08) 0 - block is walk-through (e.g. air).
+(15:39:08) 1 - block is swim-through/climbable (e.g. rope).
+(15:39:08) 2 - block is solid (e.g. dirt).
+(15:39:08) 3 - block is solid, but slippery like ice
+(15:39:08) 4 - block is solid, but even slipperier than ice
+(15:39:08) 5 - block is swim-through like water
+(15:39:08) 6 - block is swim-through like lava
+(15:39:08) 7 - block is climbable like rope
+(15:39:08) --------------------------
+(15:39:08) (console) used /GlobalBlock 16 16 16
+(15:39:20) Type a number between '0.25' (25speed) and '3.96' (396speed).
+(15:39:20) This speed is used when inside or walking on the block. Default speed is 1
+(15:39:20) --------------------------
+(15:39:20) (console) used /GlobalBlock 1
+(15:39:32) Type 'yes' if the block casts a shadow, 'no' if it doesn't.
+(15:39:32) --------------------------
+(15:39:32) (console) used /GlobalBlock 2
+(15:39:38) Type a number between '0' and '9' for the sound played when walking on it and breaking.
+(15:39:38) 0 = None, 1 = Wood, 2 = Gravel, 3 = Grass, 4 = Stone
+(15:39:38) 5 = Metal, 6 = Glass, 7 = Cloth, 8 = Sand, 9 = Snow
+(15:39:38) --------------------------
+(15:39:38) (console) used /GlobalBlock yes
+(15:39:45) Type 'yes' if the block is fully lit (e.g. lava), 'no' if not.
+(15:39:45) --------------------------
+(15:39:45) (console) used /GlobalBlock 3
+(15:39:50) Enter the block's draw method.
+(15:39:50) 0 = Opaque, 1 = Transparent (Like glass)
+(15:39:50) 2 = Transparent (Like leaves), 3 = Translucent (Like ice), 4 = Gas (Like air)
+(15:39:50) --------------------------
+(15:39:50) (console) used /GlobalBlock yes
+(15:39:53) Enter the fog density for the block. 0 = No fog at all
+(15:39:53) 1 - 255 = Increasing density (e.g. water has 12, lava 255)
+(15:39:53) --------------------------
+(15:39:53) (console) used /GlobalBlock 0
+(15:39:55) Enter the fallback block (Block shown to players who can't see custom blocks).
+(15:39:55) You can use any block name or block ID from the normal blocks.
+(15:39:55) --------------------------
+(15:39:55) (console) used /GlobalBlock 0
+(15:40:00) Created a new global custom block speedboost(67)
+(15:40:00) (console) used /GlobalBlock 1
+(15:40:06) Saved BlockDB changes for: superflat
+(15:40:28) Removed global custom block speedboost(67)
+(15:40:28) (console) used /GlobalBlock remove 67
+(15:40:33) Use /gb abort at anytime to abort the creation process.
+(15:40:33)   Use /gb revert to go back a step
+(15:40:33)   Use /gb [input] to provide input
+(15:40:33) ----------------------------------------------------------
+(15:40:33) Type the name for the block.
+(15:40:33) --------------------------
+(15:40:33) (console) used /GlobalBlock add 67
+(15:40:41) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:40:41) --------------------------
+(15:40:41) (console) used /GlobalBlock Speed Boost
+(15:40:44) Type a number for the top texture.
+(15:40:44) Press F10 to see the numbers for each texture in terrain.png
+(15:40:44) --------------------------
+(15:40:44) (console) used /GlobalBlock 0
+(15:41:01) Type a number for sides texture.
+(15:41:01) Press F10 to see the numbers for each texture in terrain.png
+(15:41:01) --------------------------
+(15:41:01) (console) used /GlobalBlock 56
+(15:41:02) Type a number for the bottom texture.
+(15:41:02) Press F10 to see the numbers for each texture in terrain.png
+(15:41:02) --------------------------
+(15:41:02) (console) used /GlobalBlock 56
+(15:41:03) Enter the three minimum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:41:03) Minimum coordinates for a normal block are 0 0 0.
+(15:41:03) --------------------------
+(15:41:03) (console) used /GlobalBlock 56
+(15:41:06) Enter the three maximum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:41:06) Maximum coordinates for a normal block are 16 16 16.
+(15:41:06) --------------------------
+(15:41:06) (console) used /GlobalBlock 0 0 0
+(15:41:06) Saved BlockDB changes for: superflat
+(15:41:09) Type a number between '0' and '7' for collision type.
+(15:41:09) 0 - block is walk-through (e.g. air).
+(15:41:09) 1 - block is swim-through/climbable (e.g. rope).
+(15:41:09) 2 - block is solid (e.g. dirt).
+(15:41:09) 3 - block is solid, but slippery like ice
+(15:41:09) 4 - block is solid, but even slipperier than ice
+(15:41:09) 5 - block is swim-through like water
+(15:41:09) 6 - block is swim-through like lava
+(15:41:09) 7 - block is climbable like rope
+(15:41:09) --------------------------
+(15:41:09) (console) used /GlobalBlock 16 16 16
+(15:41:23) Type a number between '0.25' (25speed) and '3.96' (396speed).
+(15:41:23) This speed is used when inside or walking on the block. Default speed is 1
+(15:41:23) --------------------------
+(15:41:23) (console) used /GlobalBlock 7
+(15:41:26) Type 'yes' if the block casts a shadow, 'no' if it doesn't.
+(15:41:26) --------------------------
+(15:41:26) (console) used /GlobalBlock 2
+(15:41:29) Type a number between '0' and '9' for the sound played when walking on it and breaking.
+(15:41:29) 0 = None, 1 = Wood, 2 = Gravel, 3 = Grass, 4 = Stone
+(15:41:29) 5 = Metal, 6 = Glass, 7 = Cloth, 8 = Sand, 9 = Snow
+(15:41:29) --------------------------
+(15:41:29) (console) used /GlobalBlock yes
+(15:41:35) Type 'yes' if the block is fully lit (e.g. lava), 'no' if not.
+(15:41:35) --------------------------
+(15:41:35) (console) used /GlobalBlock 3
+(15:41:38) Enter the block's draw method.
+(15:41:38) 0 = Opaque, 1 = Transparent (Like glass)
+(15:41:38) 2 = Transparent (Like leaves), 3 = Translucent (Like ice), 4 = Gas (Like air)
+(15:41:38) --------------------------
+(15:41:38) (console) used /GlobalBlock yes
+(15:41:41) Enter the fog density for the block. 0 = No fog at all
+(15:41:41) 1 - 255 = Increasing density (e.g. water has 12, lava 255)
+(15:41:41) --------------------------
+(15:41:41) (console) used /GlobalBlock 0
+(15:41:43) Enter the fallback block (Block shown to players who can't see custom blocks).
+(15:41:43) You can use any block name or block ID from the normal blocks.
+(15:41:43) --------------------------
+(15:41:43) (console) used /GlobalBlock 0
+(15:41:51) Created a new global custom block Speed Boost(67)
+(15:41:51) (console) used /GlobalBlock 1
+(15:42:06) Saved BlockDB changes for: superflat
+(15:42:13) Removed global custom block Speed Boost(67)
+(15:42:13) (console) used /GlobalBlock remove 67
+(15:42:19) Use /gb abort at anytime to abort the creation process.
+(15:42:19)   Use /gb revert to go back a step
+(15:42:19)   Use /gb [input] to provide input
+(15:42:19) ----------------------------------------------------------
+(15:42:19) Type the name for the block.
+(15:42:19) --------------------------
+(15:42:19) (console) used /GlobalBlock add 67
+(15:42:26) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:42:26) --------------------------
+(15:42:26) (console) used /GlobalBlock Test
+(15:42:37) Type the name for the block.
+(15:42:37) --------------------------
+(15:42:37) (console) used /GlobalBlock revert
+(15:42:40) Type '0' if the block is a cube, '1' if a sprite (e.g roses).
+(15:42:40) --------------------------
+(15:42:40) (console) used /GlobalBlock Juice
+(15:42:44) Type a number for the top texture.
+(15:42:44) Press F10 to see the numbers for each texture in terrain.png
+(15:42:44) --------------------------
+(15:42:44) (console) used /GlobalBlock 0
+(15:42:51) Type a number for sides texture.
+(15:42:51) Press F10 to see the numbers for each texture in terrain.png
+(15:42:51) --------------------------
+(15:42:51) (console) used /GlobalBlock 56
+(15:42:53) Type a number for the bottom texture.
+(15:42:53) Press F10 to see the numbers for each texture in terrain.png
+(15:42:53) --------------------------
+(15:42:53) (console) used /GlobalBlock 56
+(15:42:54) Enter the three minimum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:42:54) Minimum coordinates for a normal block are 0 0 0.
+(15:42:54) --------------------------
+(15:42:54) (console) used /GlobalBlock 56
+(15:43:00) Enter the three maximum coordinates of the cube in units (separated by spaces). 1 block = 16 units.
+(15:43:00) Maximum coordinates for a normal block are 16 16 16.
+(15:43:00) --------------------------
+(15:43:00) (console) used /GlobalBlock 0 0 0
+(15:43:04) Type a number between '0' and '7' for collision type.
+(15:43:04) 0 - block is walk-through (e.g. air).
+(15:43:04) 1 - block is swim-through/climbable (e.g. rope).
+(15:43:04) 2 - block is solid (e.g. dirt).
+(15:43:04) 3 - block is solid, but slippery like ice
+(15:43:04) 4 - block is solid, but even slipperier than ice
+(15:43:04) 5 - block is swim-through like water
+(15:43:04) 6 - block is swim-through like lava
+(15:43:04) 7 - block is climbable like rope
+(15:43:04) --------------------------
+(15:43:04) (console) used /GlobalBlock 16 16 16
+(15:43:19) Type a number between '0.25' (25speed) and '3.96' (396speed).
+(15:43:19) This speed is used when inside or walking on the block. Default speed is 1
+(15:43:19) --------------------------
+(15:43:19) (console) used /GlobalBlock 1
+(15:43:26) Type 'yes' if the block casts a shadow, 'no' if it doesn't.
+(15:43:26) --------------------------
+(15:43:26) (console) used /GlobalBlock 2
+(15:43:31) Type a number between '0' and '9' for the sound played when walking on it and breaking.
+(15:43:31) 0 = None, 1 = Wood, 2 = Gravel, 3 = Grass, 4 = Stone
+(15:43:31) 5 = Metal, 6 = Glass, 7 = Cloth, 8 = Sand, 9 = Snow
+(15:43:31) --------------------------
+(15:43:31) (console) used /GlobalBlock no
+(15:43:35) Type 'yes' if the block is fully lit (e.g. lava), 'no' if not.
+(15:43:35) --------------------------
+(15:43:35) (console) used /GlobalBlock 0
+(15:43:38) Enter the block's draw method.
+(15:43:38) 0 = Opaque, 1 = Transparent (Like glass)
+(15:43:38) 2 = Transparent (Like leaves), 3 = Translucent (Like ice), 4 = Gas (Like air)
+(15:43:38) --------------------------
+(15:43:38) (console) used /GlobalBlock 0
+(15:43:52) Enter the fog density for the block. 0 = No fog at all
+(15:43:52) 1 - 255 = Increasing density (e.g. water has 12, lava 255)
+(15:43:52) --------------------------
+(15:43:52) (console) used /GlobalBlock 3
+(15:43:56) Enter the fallback block (Block shown to players who can't see custom blocks).
+(15:43:56) You can use any block name or block ID from the normal blocks.
+(15:43:56) --------------------------
+(15:43:56) (console) used /GlobalBlock 0
+(15:44:00) Created a new global custom block Juice(67)
+(15:44:00) (console) used /GlobalBlock 2
+(15:44:06) SAVED: Level "superflat". (1/1/128)
+(15:44:06) GC performed (tracking 68652.61 KB, freed 7258.16 KB)
+(15:44:06) !PLAYERS ONLINE: KeengBob+
+(15:44:06) !LEVELS ONLINE: superflat
+(15:44:06) Saved BlockDB changes for: superflat
+(15:44:24) KeengBob disconnected (disconnected).
+(15:44:27) Server shutting down (Server shutdown. Rejoin in 10 seconds.)
+(15:44:27) Plugin CorePlugin was unloaded.
+(15:44:27) Plugin Core_NotesPlugin was unloaded.
+(15:44:27) Plugin DiscordRelayPlugin was unloaded.
+(15:44:27) Plugin NoTp was unloaded.
+(15:44:27) SAVED: Level "superflat". (0/0/128)
+(15:44:27) GC performed (tracking 68630.17 KB, freed 2606.67 KB)
+(15:44:27) Saved BlockDB changes for: superflat
+(15:44:27) Server shutdown completed
